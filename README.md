@@ -19,11 +19,11 @@
   </ul>
   <br>
  <p>
-   Projeto bem simplista, foi utilizado as tecnoligias acima mencionadas, então o Bootstrap utilizei para utilizei para alguns Componentes como: <br>
+   Projeto bem simplista, foi utilizado as tecnoligias acima mencionadas, então o Bootstrap utilizei para alguns Componentes como: <br>
    - Navbar <br>
    - Carousel <br
-   além disso também utilizei o Grid que foi uma tremenda "mão na roda", na hora de deixar tudo organizado, todo projeto foi pensado no 
-   conceito <strong>Mobile First</strong>, 
+                  além disso também utilizei bastante o <strong>Grid</strong> que foi uma tremenda "mão na roda", na hora de deixar tudo organizado, todo projeto foi pensado no 
+   conceito <strong>Mobile First</strong>, o tornando responsível para diversos tamanhos de telas.
    
 
 
